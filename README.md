@@ -1,4 +1,4 @@
-# new_todo_app
+# new_todo_app with cypress tests file
 
 ## Project setup
 ```
